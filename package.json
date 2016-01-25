@@ -1,0 +1,26 @@
+{
+  "name": "scroll-stop-load",
+  "version": "1.0.0",
+  "description": "load data after scroll stops",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pengxiulin@github.com/m2-team/scroll-stop-load.git"
+  },
+  "keywords": [
+    "scroll",
+    "lazyload"
+  ],
+  "author": "pengxiulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m2-team/scroll-stop-load/issues"
+  },
+  "homepage": "https://github.com/m2-team/scroll-stop-load#readme",
+  "dependencies": {
+    "mocha": "^2.3.4"
+  }
+}

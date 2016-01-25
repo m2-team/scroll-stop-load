@@ -1,0 +1,15 @@
+*{margin:0;padding:0;}
+ul,li{list-style: none;}
+.left{position: fixed;left: 0;width: 210px;background: green;}
+.left ul{overflow: hidden;}
+.left ul li{text-align: center;}
+.left ul li a{display: block;line-height: 100px;}
+.left ul li a:hover{background: red;}
+
+.main{float: left;margin-left: 220px;padding-bottom: 800px;}
+.main .panel{margin-bottom: 100px;background: red;}
+.main .panel .panel-title{}
+.main .panel .panel-content{}
+.main .panel .panel-content ul{overflow: hidden;}
+.main .panel .panel-content ul li{float: left;}
+.main .panel .panel-content ul li img{}
